@@ -1,0 +1,7 @@
+03/09/2022	11:21:36	 66dba2cf-fdc4-4127-8cbb-0e96f0ba19af	 Error: Not allowed by CORS
+03/09/2022	11:33:32	 d86d3b5d-5757-4f25-bd4f-54f12b6c8113	 TypeError: res.accepts is not a function
+03/09/2022	12:24:27	 fabfcdc6-8563-4d5e-b8c0-f9c9d2090af4	 Error: ENOENT: no such file or directory, stat 'J:\prg\nodejs\7Routing\routes\views\index.html'
+03/09/2022	13:02:08	 97e0c0b0-5ef3-4efc-a1b5-8d95bcea70c6	 TypeError: Cannot read properties of undefined (reading 'firstname')
+03/09/2022	13:04:17	 d3cf2c01-3f20-4ba3-92ce-a42c16c4465f	 TypeError: Cannot read properties of undefined (reading 'firstname')
+03/09/2022	13:32:01	 26f11704-1521-451c-a5c4-d61a43436be8	 TypeError: Cannot read properties of undefined (reading 'firstname')
+03/09/2022	14:36:55	 88e3749b-77ae-473a-b584-3c2ddac51473	 ReferenceError: data is not defined
